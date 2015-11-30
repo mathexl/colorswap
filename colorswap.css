@@ -43,9 +43,9 @@ body{
     float:left;
     width:50%;
     height:20px;
-    border:2px #ddd solid;
+    border:2px #52AEFB solid;
     box-sizing: border-box;
-    color:#ddd;
+    color:#rgba;
     text-align:center;
     font-size:13px;
     padding-top:0px;
@@ -61,6 +61,19 @@ body{
 .colorswap .thirth{
     width:33.333333%;
     float:left;
+    border:1px grey solid;
+    margin-top:0px;
+    text-align:center;
+    color:#52AEFB;
+}
+
+.colorswap .full{
+    width:50%;
+    margin-left:25%;
+    display:none;
+    margin-right:25%;
+    float:left;
+    border:1px grey solid;
     margin-top:0px;
     text-align:center;
     color:#52AEFB;
